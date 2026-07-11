@@ -1,7 +1,5 @@
 # Academic website
 
-A plain HTML/CSS template — no build step, no framework.
-
 ## Files
 
 - `index.html` — About / news / contact
