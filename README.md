@@ -1,4 +1,4 @@
-# Academic website template
+# Academic website
 
 A plain HTML/CSS template — no build step, no framework.
 
